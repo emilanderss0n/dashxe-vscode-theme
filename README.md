@@ -6,4 +6,4 @@ https://marketplace.visualstudio.com/items?itemName=EmilAndersson.Dashxe
 <br>
 <br>
 
-![Dashxe Theme](1.png)
+![Dashxe Theme](2.png)
