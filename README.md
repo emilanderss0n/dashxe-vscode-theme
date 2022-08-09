@@ -3,4 +3,4 @@ Visual Studio Code theme with a colorful, dark, balanced contrast
 
 https://marketplace.visualstudio.com/items?itemName=EmilAndersson.Dashxe
 
-![This is an image](dashxe.jpg)
+![Dashxe](logo-pres-2.jpg)
